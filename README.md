@@ -6,7 +6,7 @@ I am highly motivated to learn and develop my programming and networking skills.
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/twoj_adres/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dawid-maciejski-407224273/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <a href="https://www.instagram.com/twoj_adres/"><img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
