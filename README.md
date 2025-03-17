@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a passionate programmer with a focus on creating mobile applications and websites. I specialize in the Flutter framework, but I also have experience with languages such as C++, PHP, SQL, and JavaScript. Currently, I am learning Python and Java to expand my skillset. In addition, I am interested in computer networks, especially in the context of security and device configuration.
+I am passionate about programming, particularly in the field of mobile application development. Currently, I am intensively developing my skills in Python to expand my competencies. Additionally, I am interested in computer networks, with a focus on security and device configuration.
 
-I am highly motivated to learn and develop my programming and networking skills. In my free time, I enjoy experimenting with various technologies and frameworks to broaden my knowledge and abilities.
+As an ambitious and motivated individual, I strive to continually expand my knowledge in programming and computer networks. In my free time, I experiment with new technologies and frameworks, which allows me to gain valuable practical experience and improve my skills.
 
 ## Connect with me
 
